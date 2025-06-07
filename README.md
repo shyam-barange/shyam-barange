@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/shyam-barange/shyam-barange/blob/main/banner.jpg?raw=true)
+
 # 👋 Hi, I'm Shyam Barange *(aka Sayab)*
 
 🚀 **Senior Software Engineer | AR/VR Engineer | Mobile Innovator**  
