@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/shyam-barange/shyam-barange/blob/main/banner.jpg?raw=true)
+![MasterHead](https://github.com/shyam-barange/shyam-barange/blob/main/banner_shyam.jpg?raw=true)
 
 # 👋 Hi, I'm Shyam Barange *(aka Sayab)*
 
