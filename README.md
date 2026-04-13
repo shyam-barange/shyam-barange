@@ -2,71 +2,71 @@
 
 # 👋 Hi, I'm Shyam Barange *(aka Sayab)*
 
-🚀 **Senior SDK Lead | AR/VR Engineer**  
-🎯 Crafting immersive realities & intuitive mobile experiences
+🚀 **Senior SDK Lead | Spatial Computing & AR/VR Engineer**  
+🎯 Building the infrastructure of immersive reality — one SDK at a time
 
 ---
 
-I'm a **Senior Software Developer** creating breathtakingly immersive experiences with **AR/VR** and **mobile app development**. With a passion for innovation, I craft **mesmerizing worlds that transcend reality**. My focus lies in **spatial computing**, intuitive **cross-platform experiences**, and cutting-edge **AR use cases** such as:
+I'm a **Senior SDK Lead at [MultiSet AI](https://multiset.ai)**, a pre-seed spatial computing startup pushing the boundaries of **Visual Positioning Systems (VPS)** and **AR localization**. I architect and ship **cross-platform SDKs** for Unity, Android, and iOS — powering sub-5cm, 6-DoF spatial localization in real-world environments.
 
-- 📏 AR-based measuring tools
-- 🧱 Real-time 3D modeling & mesh scanning
-- 🧭 VPS mapping & indoor spatial navigation
-- 📲 Seamless mobile-native app and AR/VR app building
-- 📱 I’ve published **50+ mobile apps**, worked across **real estate, construction, healthcare, e-commerce**, and love pushing the boundaries of what’s possible with AR/VR.
+With **9+ years** across mobile, AR/VR, and SDK development, I've shipped production systems spanning:
+
+- 🗺️ **VPS & Indoor Navigation** — scan-agnostic ingestion, multi-floor MapSet stitching, <5 cm 6-DoF localization
+- 📦 **Cross-Platform SDK Development** — Unity, Android (Kotlin/Java), iOS (Swift/ARKit)
+- 🧱 **Real-time 3D** — AR mesh scanning, GLB/glTF runtime loading with GLTFast, NavMesh baking pipelines
+- 📏 **AR Measurement & Spatial Tools** — AR rulers, volume measurement, shelf/pallet analytics
+- 📲 **Mobile-Native Apps** — 50+ published apps across Play Store & App Store
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🏗 What I'm Building
 
-- **Languages:** Kotlin, Java, C#, Python, Swift (ARKit)
-- **AR/VR:** ARFoundation, ARKit, ARCore, GLTFast, Unity, OpenCV
-- **AI/ML:** PyTorch, TensorFlow, ONNX, YOLO
-- **Mobile:** Android (native), iOS (native), Flutter (basic)
-- **Infra/DevOps:** GitHub Actions
-- **3D Modeling:** Blender, glTF, SceneKit, RealityKit
+- **MultiSet AI SDK** — Unity/Android/iOS VPS SDK (token auth, Single & Multi-Frame localization, multi-object tracking via ObjectCodes)
+- **Unity iOS AR App Clip** — lightweight AR entry point via App Clip integration
+- **Runtime NavMesh Pipeline** — bake, upload, and download NavMesh at runtime for dynamic AR navigation
+- **VPS Mapping App** — scan-agnostic spatial data ingestion for MapSet creation
+- **WebXR SDK Port** — replicating mobile VPS localization flows in the browser using WebXR
+- **Android Civic App** — Jetpack Compose + Firebase issue reporting app (side project)
 
 ---
 
 ## 📌 Interests
 
 - 🧩 Real-time 3D reconstruction and scene understanding
-- 🗺️ Building markerless AR experiences for retail
-- 🔁 Automating dataset preparation, model training, and inference pipelines
-- 🧪 Evaluating the *real-world ROI* of XR applications
-- 🎥 Planning to share insights on **YouTube** soon — from dev logs to tutorials
+- 🗺️ Markerless AR experiences for retail, construction, and navigation
+- 🔁 Automating SDK build, test, and CI/CD pipelines
+- 🧪 Evaluating real-world ROI of spatial computing deployments
+- 🎥 YouTube channel in the works — dev logs, mobile AR tutorials, SDK deep-dives
 
 ---
 
 ## 📖 Values
 
-- 🧭 **Integrity-first**: Always deliver high-quality, production-ready solutions
-- 🎨 **Creativity**: Pushing the boundaries of what’s possible with XR and AI
-- 🧠 **Deep Learning** (literally): Always improving, mentoring, and exploring
-- 🤝 **Team-first**: Collaborative leader empowering people to build better tech
+- 🧭 **Integrity-first**: Ship production-ready, well-documented SDKs
+- 🎨 **Creativity**: Push what's possible at the intersection of XR and AI
+- 🧠 **Deep Learning** (literally): Always improving — DSA prep, new frameworks, new paradigms
+- 🤝 **Team-first**: Collaborative by nature, direct by choice
 
 ---
 
 ## 🌐 Published Apps
 
-- 🔗 [Play-Store](https://play.google.com/store/apps/dev?id=4737752821245258671)
-  
+- 🔗 [Google Play Store](https://play.google.com/store/apps/dev?id=4737752821245258671)
+
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sayab-barange/)
-- 🐦 [Twitter](https://x.com/Shyambarange)
-- [📁 Portfolio & Projects](#) (coming soon...)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sayab-barange)
 
 ---
 
 ## 💡 Fun Fact
 
-My 3-year-old daughter Avinya and I collect **fridge magnets** from every city we visit — preserving little visual memories just like augmented reality does. ❤️
+My daughter Avinya and I collect **fridge magnets** from every city we visit — tiny physical anchors to real places, just like the spatial anchors I build for AR. ❤️
 
 ---
 
-> _“I build systems that see the world, understand it, and augment it — merging code with creativity.”_
+> _"I build the invisible infrastructure of spatial computing — so apps can see the world, understand it, and augment it."_
 
-🙌 Always open to meaningful collaborations, innovative projects, and building the future of AR/VR together.
+🙌 Always open to meaningful collaborations, innovative projects, and building the future of spatial computing together.
