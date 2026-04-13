@@ -1,8 +1,8 @@
-![MasterHead](https://github.com/shyam-barange/shyam-barange/blob/main/banner_shyam.jpg?raw=true)
+![MasterHead](https://github.com/shyam-barange/shyam-barange/blob/main/senior-sdk-lead.jpg?raw=true)
 
 # 👋 Hi, I'm Shyam Barange *(aka Sayab)*
 
-🚀 **Senior Software Engineer | AR/VR Engineer | Mobile Innovator**  
+🚀 **Senior SDK Lead | AR/VR Engineer**  
 🎯 Crafting immersive realities & intuitive mobile experiences
 
 ---
@@ -63,7 +63,7 @@ I'm a **Senior Software Developer** creating breathtakingly immersive experience
 
 ## 💡 Fun Fact
 
-My 2-year-old daughter Avinya and I collect **fridge magnets** from every city we visit — preserving little visual memories just like augmented reality does. ❤️
+My 3-year-old daughter Avinya and I collect **fridge magnets** from every city we visit — preserving little visual memories just like augmented reality does. ❤️
 
 ---
 
